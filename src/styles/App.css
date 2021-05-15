@@ -1,0 +1,32 @@
+.inputchirps{
+  background-color: #f7f7eb;
+  box-shadow: 3px 3px #ebebeb;
+ padding-top: 2%;
+  height: 400px;
+  
+}
+
+label{
+ 
+  display: inline;
+  /* width: 5%;
+  height: 3%; */
+  padding: 2px;
+  text-align: center;
+  
+}
+
+.inputs{
+  width: 80%;
+  display: inline;
+}
+
+.my-chirps{
+
+ 
+  border: 2px solid black;
+  box-shadow: 10px 10px 10px 10px #ebebeb;
+  padding: 2%
+}
+
+
